@@ -99,7 +99,7 @@ conn.sendMessage(group.gid, "Halo semua!!!", MessageType.extendedText) // say he
 
 }
 // ketika seseorang masuk/keluar dari group
-    conn.onGlobalParicipantsChanged(async (event) => {
+   {
         const host = await conn.getHostNumber() + '@c.us'
         // kondisi ketika seseorang diinvite/join group lewat link
         if (event.action === 'add' && event.who !== host) {
