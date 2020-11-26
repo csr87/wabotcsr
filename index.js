@@ -13,10 +13,10 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'CSR BOT 🤖'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/sarangga87_'; // Nama Instagramlu cok
-const telegram = 't.me/caesaranggaaa'; // Nama Telegramlu cok
-const whatsapp = '0853-3655-2251'; // Nomor whatsapplu cok
-const youtube = '-'; // Nama Youtubelu cok
+const instagramlu = 'https://instagram.com/sarangga87_'; // Nama Instagramlu cok
+const telegramlu = 't.me/caesaranggaaa'; // Nama Telegramlu cok
+const whatsapplu = '0853-3655-2251'; // Nomor whatsapplu cok
+const youtubelu = '-'; // Nama Youtubelu cok
 const kapanbotaktif = 'SAAT CSR AKTIF'; // Kapan bot lu aktif
 const grupch1 = 'GKADA'; // OFFICIAL GRUP LU 1
 const grupch2 = 'GKADA'; // OFFICIAL GRUP LU 2
